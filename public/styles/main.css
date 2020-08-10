@@ -1,24 +1,43 @@
 
 :root {
   --color-background: #F0F0F7;
-  --color-primary-lighter: #9871F5;
-  --color-primary-light: #916BEA;
-  --color-primary: #8257E5;
-  --color-primary-dark: #774DD6;
-  --color-primary-darker: #6842c2;
-  --color-secondary: #04D361;
-  --color-secondary-dark: #04BF58;
+  --color-primary-lighter: #438496;
+  --color-primary-light: #367181;
+  --color-primary: #286DA8;
+  --color-primary-dark: #206199;
+  --color-primary-darker: #206199;
+  --color-secondary: #CD5360;
+  --color-secondary-dark: #973942;
   --color-title-in-primary: #FFFFFF;
-  --color-text-in-primary: #D4C2FF;
-  --color-text-title: #32264D;
+  --color-text-in-primary: #9ec1dd;
+  --color-text-title: #0f3453;
   --color-text-complement: #9C98A6;
-  --color-text-base: #6A6180;
+  --color-text-base: #9ec1dd;
   --color-line-in-white: #E6E6F0;
   --color-input-background: #F8F8FC;
   --color-button-text: #FFFFFF;
   --color-box-base: #FFFFFF;
   --color-box-footer: #FAFAFC;
   --color-small-info: #C1BCCC;
+
+  /*
+    TROQUEI AS CORES!!
+
+    Azul + escuro
+    # 286DA8
+
+    Rosa
+    # CD5360
+
+    "Beje"
+    # B37D4E
+
+    Azul mais clarinho
+    # 438496
+
+    https://www.canva.com/pt_br/aprenda/cores-para-sites-50-paginas-impactantes/
+  
+  */
 
   /*TAMANHO DA FONTE PADRÃO */
   font-size: 60%; /* controle das medidas rem */
